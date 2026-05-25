@@ -1,24 +1,33 @@
-## Hi there :wave:
+# Hi, I'm Titan 👋
 
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&labelColor=gray&color=blue&logoColor=white&label=%20)](https://www.linkedin.com/in/titan-ron-342095194/)
+Principal Architect focused on developer productivity, platform engineering, and scalable software architecture.
 
-![NodeJS](https://img.shields.io/static/v1?message=NodeJS&logo=node.js&labelColor=gray&color=blue&logoColor=white&label=%20)
-![NPM](https://img.shields.io/static/v1?message=NPM&logo=npm&labelColor=gray&color=blue&logoColor=white&label=%20)
-![Angular](https://img.shields.io/static/v1?message=Angular&logo=angular&labelColor=gray&color=blue&logoColor=white&label=%20)
-![Nx](https://img.shields.io/static/v1?message=Nx&logo=nx&labelColor=gray&color=blue&logoColor=white&label=%20)
+I work across frontend, backend, internal platforms, libraries, automation, and developer tooling - with a strong focus on making engineering systems easier to use, safer to operate, and better aligned with how teams actually build software.
 
-![Webpack](https://img.shields.io/static/v1?message=Webpack&logo=webpack&labelColor=gray&color=blue&logoColor=white&label=%20)
-![Google Cloud](https://img.shields.io/static/v1?message=GCP&logo=google-cloud&labelColor=gray&color=blue&logoColor=white&label=%20)
-![Kubernetes](https://img.shields.io/static/v1?message=Kubernetes&logo=kubernetes&labelColor=gray&color=blue&logoColor=white&label=%20)
-![Docker](https://img.shields.io/static/v1?message=Docker&logo=docker&labelColor=gray&color=blue&logoColor=white&label=%20)
-![MongoDB](https://img.shields.io/static/v1?message=MongoDB&logo=MongoDB&labelColor=gray&color=blue&logoColor=white&label=%20)
-![Redis](https://img.shields.io/static/v1?message=Redis&logo=Redis&labelColor=gray&color=blue&logoColor=white&label=%20)
-![MQTT](https://img.shields.io/static/v1?message=MQTT&logo=MQTT&labelColor=gray&color=blue&logoColor=white&label=%20)
+## What I care about
 
-![Ubuntu](https://img.shields.io/static/v1?message=Ubuntu&logo=Ubuntu&labelColor=gray&color=blue&logoColor=white&label=%20)
-![macOS](https://img.shields.io/static/v1?message=macOS&logo=macOS&labelColor=gray&color=blue&logoColor=white&label=%20)
-![Windows](https://img.shields.io/static/v1?message=Windows&logo=Windows&labelColor=gray&color=blue&logoColor=white&label=%20)
+- Developer productivity and engineering effectiveness
+- Platform engineering and internal developer experience
+- Scalable architecture for large engineering organizations
+- CI/CD, release workflows, and production-safe delivery
+- Reusable libraries, shared tooling, and automation
+- Documentation, standards, and AI-assisted engineering workflows
 
-![Git](https://img.shields.io/static/v1?message=Git&logo=Git&labelColor=gray&color=blue&logoColor=white&label=%20)
-![GitHub](https://img.shields.io/static/v1?message=GitHub&logo=GitHub&labelColor=gray&color=blue&logoColor=white&label=%20)
-![Slack](https://img.shields.io/static/v1?message=Slack&logo=Slack&labelColor=gray&color=blue&logoColor=white&label=%20)
+## How I think about engineering
+
+Good platforms should reduce friction, not add process.
+
+I like building systems that connect architecture, automation, documentation, and developer experience - especially where consistency, security, and velocity need to work together.
+
+## Areas I’ve worked on
+
+- Frontend and backend systems
+- Shared libraries and reusable tooling
+- Browser extensions and developer-facing apps
+- CI/CD and GitOps workflows
+- Internal developer platforms
+- Engineering governance and technical standards
+
+## Writing
+
+Sometimes I write about engineering, architecture, and developer productivity on [Medium](https://medium.com/@titan-ron).
